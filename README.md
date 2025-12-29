@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kpech21" alt="kpech21" /></a> </p>
 
-- :recycle: I am working for Agroknow company in Food Waste sector as Data Science Manager.
+- :recycle: I am working for Agroknow company in Food Safety sector as Data Science Manager.
 
-- 🔭 In my free time, I’m currently working :on: [Stock Analysis](https://github.com/kpech21/stock-analysis) :soon:
+- 🔭 In my free time, I’m currently working :on: [Stoxly](https://stoxly.io/) :soon:
 
-- 🌱 I’m currently learning **PyTorch, MLFlow and Timeseries Forecasting**
+- 🌱 I’m currently learning **PyTorch Lighting, RAY and vLLM**
 
 - 💬 Ask me about **Python, Machine Learning and Productization Processes**
 
