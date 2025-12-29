@@ -9,7 +9,7 @@
 
 - 🔭 In my free time, I’m currently working :on: [Stoxly](https://stoxly.io/) :soon:
 
-- 🌱 I’m currently learning **PyTorch Lighting, RAY and vLLM**
+- 🌱 I’m currently learning **[PyTorch Lighting](https://lightning.ai/docs/pytorch/stable/), [Ray](https://www.ray.io/) and [vLLM](https://docs.vllm.ai/en/latest/)**
 
 - 💬 Ask me about **Python, Machine Learning and Productization Processes**
 
